@@ -12,3 +12,5 @@ pip install -r requirements.txt
 ```bash
 python main.py --input_path INPUT_BIB_PATH --output_path OUTPUT_BIB_PATH --aux_path AUX_FILE_PATH --checkciteslua_path checkcites.lua
 ```
+# Credits
+Thanks for [Siyu Zhang](https://github.com/DeriZSY) for contributing for this repo.
